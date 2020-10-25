@@ -1,4 +1,4 @@
-[![masgimenz](https://github.com/Gimenz/Gimenz/blob/master/images/github-banner.jpg?raw=true)](https://www.masgimenz.com)
+[![Aruga](https://github.com/ArugaZ/ArugaZ/blob/main/images/github-banner.jpg?raw=true)](https://github.com/ArugaZ/ArugaZ)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Aruga</p>
 <p align='center'>
