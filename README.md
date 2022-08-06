@@ -46,8 +46,8 @@
 ## ⚙️ &nbsp;Contacts
 
 <div align="center">
-  <a href="https://api.whatsapp.com/send/?phone="><img src="//img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://instagram.com/ini.arga"><img src="//img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:arugaastri@gmail.com"><img src="//img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send/?phone="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://instagram.com/ini.arga"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:arugaastri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img width="530em" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.gif"/>
 </div>
