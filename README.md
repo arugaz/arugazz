@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="arugaz"/>
 </div>
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;Stats
 
