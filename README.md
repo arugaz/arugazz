@@ -36,7 +36,7 @@
 
 ## ⚙️ &nbsp;Stats
 
-<div align="left" style="margin-bottom:50px;">
+<div align="center" style="margin-bottom:50px;">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=arugaz&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arugaz&layout=compact&theme=vision-friendly-dark"/>
   <img width="530em" src="https://github-readme-streak-stats.herokuapp.com?user=arugaz&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
