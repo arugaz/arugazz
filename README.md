@@ -15,6 +15,8 @@
 
 - I ❤️ to connect with more people.
 
+<video src="https://user-images.githubusercontent.com/126239/151336683-4f0c423a-7bd5-4580-888b-4c08fdfdd4e9.mp4"></video>
+
 <img width="420px" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
 </div>
 
@@ -60,5 +62,4 @@
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp" alt="arugaz"/>
-  <video width="100%" src="https://ia801501.us.archive.org/31/items/knjokrshmss206720/Kanojo%2C%20Okarishimasu%20S2%20-%2006.720.ia.mp4"></video>
 </div>
