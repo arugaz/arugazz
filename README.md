@@ -60,5 +60,5 @@
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp" alt="arugaz"/>
-  <video width="100%" src="https://ia801501.us.archive.org/31/items/knjokrshmss206720/Kanojo%2C%20Okarishimasu%20S2%20-%2006.720.ia.mp4"/>
+  <video width="100%" src="https://ia801501.us.archive.org/31/items/knjokrshmss206720/Kanojo%2C%20Okarishimasu%20S2%20-%2006.720.ia.mp4"></video>
 </div>
