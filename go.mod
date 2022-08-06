@@ -1,6 +1,6 @@
 module github.com/arugaz
 
-go 1.19
+go 1.18
 
 require (
   github.com/git/git v2.36.1+incompatible // indirect
