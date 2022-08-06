@@ -7,7 +7,7 @@
 <div>
 
 ## 👀 &nbsp;ArugaZ
-#### I am a 15yo programmer, hope you all have good day 😃
+#### I am a 17yo programmer, hope you all have good day 😃
 
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 
