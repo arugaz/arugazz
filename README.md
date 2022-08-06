@@ -52,5 +52,5 @@
 </div>
 
 <div align="center">
-  <img width="666em" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp" alt="arugaz"/>
+  <img width="777em" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp" alt="arugaz"/>
 </div>
