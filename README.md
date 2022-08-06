@@ -20,8 +20,6 @@
 <img width="420px" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
 </div>
 
-<br><br>
-
 ## 🛠 &nbsp;Tech Stuff
 
 <div align="center">
