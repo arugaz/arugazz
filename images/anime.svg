@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <picture>
+      <source data-srcset="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp"/>
+      <img width="100%" data-src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp" alt="arugaz"/>
+    </picture>
+  </foreignObject>  
+</svg>
