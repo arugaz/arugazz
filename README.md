@@ -4,14 +4,20 @@
   <img width="45" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime1.webp" alt="arugaz"/>
 </h1>
 
+<br><br>
+
 ## 👀 &nbsp;ArugaZ
-#### I am a 15yo (3yrs ago) programmer, hope you all have good day 😃
+#### I am a 15yo programmer, hope you all have good day 😃
 
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 
 - I ❤️ to watch anime, read comic, and being cosplayer.
 
 - I ❤️ to connect with more people.
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
+</div>
 
 <br><br>
 
@@ -34,6 +40,8 @@
   <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="arugaz"/>
 </div>
 
+<br><br>
+
 ## ⚙️ &nbsp;Stats
 
 <div align="center">
@@ -42,6 +50,8 @@
   <img width="444em" src="https://github-readme-streak-stats.herokuapp.com?user=arugaz&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="arugaz"/>
   <img width="444em" src="https://github-profile-trophy.vercel.app/?username=arugaz&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="arugaz"/>
 </div>
+
+<br><br>
 
 ## 📱 &nbsp;Contacts
 
