@@ -6,6 +6,8 @@
 
 <br><br>
 
+<div>
+
 ## 👀 &nbsp;ArugaZ
 #### I am a 15yo programmer, hope you all have good day 😃
 
@@ -15,8 +17,7 @@
 
 - I ❤️ to connect with more people.
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
+<img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
 </div>
 
 <br><br>
