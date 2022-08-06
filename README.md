@@ -22,7 +22,7 @@
 
 ## 🛠 &nbsp;Tech Stuff
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github" alt="arugaz"/>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git" alt="arugaz"/>
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5" alt="arugaz"/>
