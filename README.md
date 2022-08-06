@@ -62,5 +62,4 @@
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp" alt="arugaz"/>
-  <video width="100%" src="https://user-images.githubusercontent.com/53950128/183266317-544deed9-f746-4476-b386-76245d92723d.mp4"></video>
 </div>
