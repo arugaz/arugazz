@@ -17,7 +17,7 @@
 
 - I ❤️ to connect with more people.
 
-<img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
+<img width="450px" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
 </div>
 
 <br><br>
