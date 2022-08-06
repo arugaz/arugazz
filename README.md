@@ -4,8 +4,6 @@
   <img width="45" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime1.webp" alt="arugaz"/>
 </h1>
 
-<br><br>
-
 <div>
 
 ## 👀 &nbsp;ArugaZ
