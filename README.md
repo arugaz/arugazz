@@ -37,10 +37,10 @@
 ## ⚙️ &nbsp;Stats
 
 <div align="center" style="margin-bottom:50px;">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=arugaz&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arugaz&layout=compact&theme=vision-friendly-dark"/>
-  <img width="530em" src="https://github-readme-streak-stats.herokuapp.com?user=arugaz&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  <img width="530em" src="https://github-profile-trophy.vercel.app/?username=arugaz&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh"/>
+  <img width="444em" src="https://github-readme-stats.vercel.app/api?username=arugaz&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="444em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arugaz&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="444em" src="https://github-readme-streak-stats.herokuapp.com?user=arugaz&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img width="444em" src="https://github-profile-trophy.vercel.app/?username=arugaz&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true"/>
 </div>
 
 ## ⚙️ &nbsp;Contacts
@@ -52,5 +52,5 @@
 </div>
 
 <div align="center">
-  <img width="530em" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.gif"/>
+  <img width="444em" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.gif"/>
 </div>
