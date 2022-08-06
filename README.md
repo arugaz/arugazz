@@ -43,7 +43,7 @@
   <img width="444em" src="https://github-profile-trophy.vercel.app/?username=arugaz&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="arugaz"/>
 </div>
 
-## ⚙️ &nbsp;Contacts
+## 📱 &nbsp;Contacts
 
 <div align="center" style="margin-bottom:50px;">
   <a href="https://api.whatsapp.com/send/?phone=6285163651710"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="arugaz"/></a>
