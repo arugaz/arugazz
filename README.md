@@ -15,10 +15,9 @@
 
 - I ❤️ to connect with more people.
 
-<video src="https://ia801501.us.archive.org/31/items/knjokrshmss206720/Kanojo%2C%20Okarishimasu%20S2%20-%2006.720.ia.mp4"></video>
-
-<img width="420px" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/waves.svg" alt="arugaz"/>
 </div>
+
+<br/>
 
 ## 🛠 &nbsp;Tech Stuff
 
@@ -39,7 +38,7 @@
   <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="arugaz"/>
 </div>
 
-<br>
+<br/>
 
 ## ⚙️ &nbsp;Stats
 
@@ -50,7 +49,7 @@
   <img width="444em" src="https://github-profile-trophy.vercel.app/?username=arugaz&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="arugaz"/>
 </div>
 
-<br><br>
+<br/>
 
 ## 📱 &nbsp;Contacts
 
