@@ -1,1 +1,2 @@
-images/githubcard-s.svg
+*.go
+*.ts
