@@ -1,12 +1,13 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/githubcard.svg" alt="arugaz"/>
+<img align="right" height="590em" src="./images/githubcard.svg" alt="arugaz"/>
 <h1 align="center">
   Hi there!
-  <img width="45" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime1.webp" alt="arugaz"/>
+  <img width="45" src="./images/anime1.webp" alt="arugaz"/>
 </h1>
 
 <div>
 
 ## 👀 &nbsp;ArugaZ
+
 #### I am a 17yo programmer, hope you all have good day 😃
 
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
@@ -60,5 +61,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/images/anime2.webp" alt="arugaz"/>
+  <img width="100%" src="./images/anime2.webp" alt="arugaz"/>
 </div>
