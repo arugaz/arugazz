@@ -8,11 +8,11 @@
 
 ## 👀 &nbsp;ArugaZ
 
-#### I am a 17yo programmer, hope you all have good day 😃
+#### Hello, hope you all have good day!
 
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 
-- I ❤️ to watch anime, read comic, and being cosplayer.
+- I ❤️ to watch anime, read comic, and swim.
 
 - I ❤️ to connect with more people.
 
